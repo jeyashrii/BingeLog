@@ -22,7 +22,7 @@ app.get("/", (req, res) => {
 });
 app.use("/movies", moviesRoute);
 mongoose
-  .connect("mongodb://127.0.0.1:27017/movieList")
+  .connect(mongoDBURL)
   .then(() => {
     console.log("App connected to database");
     app.listen(PORT, () => {
