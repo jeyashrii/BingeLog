@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BingeLog/static/css/main.5dad6550.css",
+    "main.js": "/BingeLog/static/js/main.f6315164.js",
+    "index.html": "/BingeLog/index.html",
+    "main.5dad6550.css.map": "/BingeLog/static/css/main.5dad6550.css.map",
+    "main.f6315164.js.map": "/BingeLog/static/js/main.f6315164.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dad6550.css",
+    "static/js/main.f6315164.js"
+  ]
+}
