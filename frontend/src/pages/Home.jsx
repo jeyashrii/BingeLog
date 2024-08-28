@@ -21,7 +21,7 @@ const Home = () => {
 
   return (
     <div className="container mx-auto mt-8 p-4 bg-blue-50 rounded-lg shadow-lg">
-      <h2 className="text-3xl font-bold mb-6 text-blue-800">Let's log your movies!</h2>
+      <h2 className="text-3xl font-bold mb-6 text-blue-800">BingeLog!</h2>
       <Link
         to={"./movies/create"}
         className="text-blue-600 hover:text-blue-800"
